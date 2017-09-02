@@ -1,6 +1,6 @@
 # ReactJS Simple Youtube Application
 
-#### User below Git Command
+#### Use below Git Command to run this application
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
